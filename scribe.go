@@ -5,7 +5,7 @@ package scribe
 
 import (
 	"fmt"
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"github.com/artyom/thrift"
 	"github.com/artyom/fb303"
 	"math"
 )
